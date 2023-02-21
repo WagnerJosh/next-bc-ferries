@@ -1,2 +1,3 @@
-# next-bc-ferries
+# Next BC Ferries
+
 BC Ferries Realtime tracking and estimating
